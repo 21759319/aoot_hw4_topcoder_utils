@@ -42,3 +42,5 @@ hs_err_pid*
 .img/
 target/
 edu.zju.sc.rxj/
+!src/
+*.html
