@@ -11,7 +11,8 @@
 
 ### 文档
 
-**访问:	[JavaDoc](./target/site/edu/zju/sc/rxj/package-summary.html)**![java文档](./doc/java文档.png)
+**访问:	[JavaDoc](./target/site/edu/zju/sc/rxj/package-summary.html)**
+![java文档](./doc/java文档.png)
 
 
 ### **测试**
