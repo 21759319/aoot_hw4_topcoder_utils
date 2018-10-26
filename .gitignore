@@ -40,7 +40,6 @@ hs_err_pid*
 .css/
 .idea/
 .img/
-target/
 edu.zju.sc.rxj/
 !src/
 *.html
