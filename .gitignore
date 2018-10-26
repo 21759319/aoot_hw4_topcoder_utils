@@ -37,8 +37,8 @@ buildNumber.properties
 hs_err_pid*
 
 #忽略配置文件夹
-.css 
-.idea
-.img
-target
-edu.zju.sc.rxj
+.css/
+.idea/
+.img/
+target/
+edu.zju.sc.rxj/
