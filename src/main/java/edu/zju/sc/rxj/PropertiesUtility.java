@@ -280,7 +280,8 @@ public class PropertiesUtility {
    * @return the retrieved date/time property value (null if property is optional and missing)
    * @throws T if the property value has invalid format or is required, but missing
    */
-  public static <T extends Throwable> Date getDateProperty(Properties properties, String key,
+  public static <T extends Throwable> Date getDateProperty(final Properties properties,
+                                                           final String key,
       String format, boolean required, Class<T> exceptionClass) throws Exception, Throwable {
     String value = properties.getProperty(key);
     if (value == null) {
